@@ -3,7 +3,7 @@
 Projet collaboratif — Diplôme *Data Analyst, Informatique et Statistique pour la décision*
 Faculté d'Économie, Université de Montpellier (2025-2026)
 
-**Auteurs :** Kobenan Gboko, Kharfallah Yazid
+**Auteur :** Kobenan Gboko
 **Encadrant :** Thierry Blayac
 
 ## Contexte
